@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSpikeDetection", "OnlineSpikeDetection.csproj", "{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Debug|x64.ActiveCfg = Debug|x64
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Debug|x64.Build.0 = Debug|x64
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Release|x64.ActiveCfg = Release|x64
+		{6A1CF55F-95A2-4C5C-8A56-D9D70B5ABACC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CBC7F6-A9F2-45EF-8329-AB9FCFA93E40}
+	EndGlobalSection
+EndGlobal
