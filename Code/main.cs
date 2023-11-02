@@ -156,5 +156,15 @@ namespace OnlineSpikeDetection
             EfectiveStimElecsForm effectiveStimElecForm = new EfectiveStimElecsForm();
             effectiveStimElecForm.Show();
         }
+
+        private void main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
