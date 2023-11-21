@@ -23,7 +23,7 @@ The app was designed to be used simultaneously with Multi Channel Experimenter. 
 Multi Channel Experimenter can be used to record the neuronal data and visualize it in real-time, concurrently with the aDFC app. This app can also be used to run the non-adaptive DFC algorithm and random Poisson stimulation.
 
 
-For questions, suggestions, and bug reports send an email to pauloaguiar@ineb.up.pt
+For questions, suggestions, and bug reports send an email to pauloaguiar@i3s.up.pt
 
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
