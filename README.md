@@ -1,5 +1,5 @@
 # aDFC
-Adaptive Delayed Feedback Control in Neuronal Populations
+## Adaptive Delayed Feedback Control in Neuronal Populations
 
 
 This application allows the user to run the Adaptive Delayed Feedback Control (aDFC) algorithm to control neuronal populations with electrical stimulation.
