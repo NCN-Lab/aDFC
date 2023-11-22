@@ -9,7 +9,7 @@ doi: https://doi.org/10.1101/2022.07.05.498735
 
 Domingos Leite de Castro, Miguel Aroso, A. Pedro Aguiar, David B. Grayden, Paulo Aguiar
 
-
+![alt text](https://github.com/NCN-Lab/aDFC/blob/main/app.png)
 
 The C# application runs on a Windows computer connected to the MEA2100-256 System from MultiChannel Systems (MCS). 
 
