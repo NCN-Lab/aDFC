@@ -3,11 +3,17 @@
 
 
 This application allows the user to run the Adaptive Delayed Feedback Control (aDFC) algorithm to control neuronal populations with electrical stimulation.
-We developed this application to conduct the experiments for the publication: *"Disrupting abnormal neuronal oscillations with adaptive delayed feedback control"*, under review
+We developed this application to conduct the experiments for the publication: 
 
-doi: https://doi.org/10.1101/2022.07.05.498735
+*"Disrupting abnormal neuronal oscillations with adaptive delayed feedback control"*
 
-Domingos Leite de Castro, Miguel Aroso, A. Pedro Aguiar, David B. Grayden, Paulo Aguiar
+**Domingos Leite de Castro**, Miguel Aroso, A. Pedro Aguiar, David B. Grayden, Paulo Aguiar
+
+**eLife, 2024**
+
+doi: [https://doi.org/10.1101/2022.07.05.498735](https://doi.org/10.7554/eLife.89151)
+
+
 
 ![alt text](https://github.com/NCN-Lab/aDFC/blob/main/app.png)
 
